@@ -12,7 +12,7 @@ node {
     sh 'sleep 10s'
    }
 
-   stage ('Code Deplou') {
+   stage ('Code Deploy') {
     echo "Code Deployed skipped for now"
    }
 }
