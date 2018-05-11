@@ -12,7 +12,8 @@ node {
     sh 'sleep 10s'
    }
 
-   stage ('Code Deplou') {
-    echo "Code Deployed skipped for now"
+   stage ('Code Deploy') {
+    echo "Code Deployed Started"
+    echo "Code Deploy completed"
    }
 }
