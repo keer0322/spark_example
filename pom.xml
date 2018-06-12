@@ -65,7 +65,7 @@
 				<version>2.3</version>
 				<configuration>
 					<descriptors>
-						<descriptor>assembly.xml</descriptor>
+						<descriptor>bin.xml</descriptor>
 					</descriptors>
 				</configuration>
 				<executions>
